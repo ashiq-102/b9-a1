@@ -394,11 +394,11 @@
     justify-content: center;
 }
 
-.img6 {
+/* .img6 {
 
-    margin-inline-end: 0;
+    
 
-}
+} */
 
 .img7 {
     width: 206.841px;
@@ -484,25 +484,28 @@
     height: auto;
     display: block;
     transition: transform 0.3s ease;
-    
+
 
 }
+
 .img11:hover {
-    
+
     transform: scale(1.1);
     background: lightgray;
 
 
 }
+
 .img12:hover {
-    
+
     transform: scale(1.1);
     background: lightgray;
 
 
 }
+
 .img13:hover {
-    
+
     transform: scale(1.1);
     background: lightgray;
 
@@ -520,23 +523,203 @@
 }
 
 .img15:hover {
-    
+
     transform: scale(1.1);
     background: lightgray;
 
 
 }
+
 .img16:hover {
-    
+
     transform: scale(1.1);
     background: lightgray;
 
 
 }
+
 .img17:hover {
-    
+
     transform: scale(1.1);
     background: lightgray;
+
+
+}
+
+#newsletter {
+    margin: 120px 0;
+}
+
+.conatiner11-main {
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    justify-content: center;
+    /* padding: 0 140px; */
+    margin: 0 auto;
+
+}
+
+
+
+.img18 {
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    padding-top: 80px;
+}
+
+.t13 {
+    color: #070211;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.t14 {
+    color: rgba(7, 2, 17, 0.60);
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+#newsletter form {
+    padding-top: 48px;
+}
+
+#newsletter form input {
+    /* flex-grow: 1; */
+    border-radius: 50px;
+    background: #FFF;
+    width: 648px;
+    height: 72px;
+    flex-shrink: 0;
+    color: rgba(7, 2, 17, 0.30);
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+#newsletter form button {
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: #FFF;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+
+
+}
+
+.newsletter1 {
+    margin: 120px 0;
+
+}
+
+.container12-main {
+    background: #070211;
+    /* text-align: center; */
+    width: 2000px;
+    height: 609px;
+    flex-shrink: 0;
+    padding-top: 120px;
+
+}
+
+.container12 {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding-right: 80px;
+    padding-bottom: 70px;
+
+}
+
+.t14 {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.img19 {
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.img20 {
+
+    text-align: center;
+    gap: 20px;
+}
+
+.img20 hr {
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin-left: 270px;
+    row-gap: 20px;
+
+
+
+}
+
+.img20 img {
+    padding: 30px 0;
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+
+
+}
+
+.t15 {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding-right: 80px;
+    padding-bottom: 70px;
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    margin-top: 150px;
 
 
 }
