@@ -338,7 +338,6 @@
 
 }
 
-
 .container8 {
     width: 1600px;
     height: 7335px;
@@ -346,6 +345,7 @@
     margin-top: 120px;
     margin: 0 auto;
     justify-content: center;
+    margin-right: 10px;
 
 
 }
@@ -395,9 +395,9 @@
 }
 
 .img6 {
-  
-    
-    bottom: 0;
+
+    margin-inline-end: 0;
+
 }
 
 .img7 {
@@ -406,7 +406,7 @@
     flex-shrink: 0;
     fill: #F00;
     margin-bottom: 60px;
-    
+
 
 
 }
@@ -416,7 +416,7 @@
     height: 433px;
     flex-shrink: 0;
     border-radius: 16px 16px 0px 0px;
-    margin-top: 140px;
+    /* margin-top: 140px; */
 
 }
 
@@ -428,4 +428,115 @@
     background: #F00;
     padding-right: 120px;
     /* margin-top: 10 px; */
+}
+
+.container10 {
+    /* margin-top: 120px;
+    display: center; */
+    justify-content: center;
+    /* margin-bottom: auto; */
+    /* text-align: justify; */
+    text-align: center;
+    margin-bottom: 200px;
+
+
+}
+
+.t11 {
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.t12 {
+    color: #070211;
+
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.t13 {
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 10px;
+    padding-bottom: 25px;
+}
+
+.img10 {
+    border-radius: 16px;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease;
+    
+
+}
+.img11:hover {
+    
+    transform: scale(1.1);
+    background: lightgray;
+
+
+}
+.img12:hover {
+    
+    transform: scale(1.1);
+    background: lightgray;
+
+
+}
+.img13:hover {
+    
+    transform: scale(1.1);
+    background: lightgray;
+
+
+}
+
+.img14 {
+    border-radius: 16px;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.img15:hover {
+    
+    transform: scale(1.1);
+    background: lightgray;
+
+
+}
+.img16:hover {
+    
+    transform: scale(1.1);
+    background: lightgray;
+
+
+}
+.img17:hover {
+    
+    transform: scale(1.1);
+    background: lightgray;
+
+
 }
