@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Merriweather:wght@900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif;
+}
+
+.banner {
+    background-image: url('../resources/banner.png');
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-position: center;
+    border-radius: 16px;
+    background: rgba(7, 2, 17, 0.00) 100%);
+
+
+
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+
+.banner-text {
+    margin-top: 0 auto;
+    justify-content: space-around;
+    padding-top: 177px;
+}
+
+.text1 {
+    color: #FFF;
+    /* margin-bottom: auto; */
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text2 {
+    color: #FFF;
+    width: 632px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: Merriweather;
+    font-size: 72px;
+
+
+    font-weight: 900;
+    line-height: 95px;
+    /* 131.944% */
+}
+
+.container {
+    text-align: center;
+    margin-top: 120px;
+
+}
+
+.text3 {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.text4 {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.text5 {
+    color: #070211;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.img1 {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+}
+
+.container2 {
+    background-image: url('../resources/Vectorrr.png');
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin: 0 auto;
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    margin-top: 120px;
+
+
+
+
+}
+
+
+
+.img2 {
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding: 0.008px 0px 0px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+
+}
+
+.container-greeting {
+    color: #FFF;
+
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+
+}
+
+.greeting-description {
+    color: rgba(255, 255, 255, 0.80);
+
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 20px;
+
+}
+
+.btn1 {
+    color: #FFFFFF;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-left: 40px;
+    margin-top: 20px;
+
+
+
+}
+
+.container3 {
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    background-color: #FFF8F3;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 120px;
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+
+
+
+
+}
+
+.t1 {
+    color: #F00;
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    /* 175% */
+    text-transform: capitalize;
+}
+
+.t2 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.btn2 {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    margin-top: 64px;
+}
+
+.container4{
+   
+    padding-top: 100px;
+    padding: 0 auto;
+
+}
