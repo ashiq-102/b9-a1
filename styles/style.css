@@ -340,7 +340,7 @@
 
 .container8 {
     width: 1600px;
-    height: 7335px;
+    /* height: 7335px; */
     background: #FFF;
     margin-top: 120px;
     margin: 0 auto;
@@ -431,8 +431,8 @@
 }
 
 .container10 {
-    /* margin-top: 120px;
-    display: center; */
+    
+    margin-top: 120px;
     justify-content: center;
     /* margin-bottom: auto; */
     /* text-align: justify; */
